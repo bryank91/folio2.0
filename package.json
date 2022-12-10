@@ -2,6 +2,7 @@
   "name": "react-resume-template",
   "version": "2.0.0",
   "private": true,
+  "homepage": "https://bryank91.github.io/folio2.0",
   "scripts": {
     "build": "yarn compile && yarn next build",
     "clean": "rm -rf build-tsc .next",
@@ -45,6 +46,7 @@
     "eslint-plugin-react-native": "^4.0.0",
     "eslint-plugin-simple-import-sort": "^7.0.0",
     "eslint-plugin-sort-keys-fix": "^1.1.2",
+    "gh-pages": "^4.0.0",
     "postcss": "^8.4.8",
     "postcss-preset-env": "^7.4.2",
     "prettier": "^2.5.1",
